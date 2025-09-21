@@ -10,7 +10,7 @@ import UIKit
 
 enum Colors {
     static let backgroundPrimary = UIColor(hex: "#0F110E")
-    static let backgroundSecondary = UIColor(hex: "##161616")
+    static let backgroundSecondary = UIColor(hex: "#161616")
     static let backgroundTertiary = UIColor(hex: "#1B1B1B")
 
     static let accentBrand = UIColor(hex: "#57F2BE")
